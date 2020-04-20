@@ -4742,6 +4742,26 @@ module.exports = [
       'Svelte',
     ],
   },
+    {
+    name: 'Amirhossein Daraee',
+    description:
+      'Fullstack developer, Iranian, Hoping to start a podcast soon',
+    url: 'https://amirdaraee.com',
+    twitter: '@amirdaraee',
+    emoji: '🤓',
+    country: 'IR',
+    computer: 'windows',
+    phone: 'android',
+    tags: [
+      'Developer',
+      'Full Stack',
+      'JavaScript',
+      'Angular',
+      'Node',
+      'ASP.NET',
+      'CSS',
+    ],
+  },
   {
     name: 'Terry Dontje',
     description:
